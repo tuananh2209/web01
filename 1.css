@@ -1,0 +1,8 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.navbar-nav .nav-link {
+	margin: 0px 6px;
+}
